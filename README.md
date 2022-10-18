@@ -4,13 +4,15 @@ The team at Bitcoin Butler noticed that advanced analytics is becoming enormousl
 Identify unusual patterns in time series data by using Pandas and other tools.
 
 Search for patterns in seasonality by using the hvPlot visualization tool.
- Then RAMP it up to timeseries machine learning and LTSM?
+
+Then RAMP it up to Tensorflow / 
  
 
 
 
 ## Technologies
 
+## 
 git kenny branch test 
 kenny testing mike one two three a to the four 
 Josh testing againe
