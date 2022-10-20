@@ -41,26 +41,32 @@
 
 # Search for patterns in seasonality by using the hvPlot visualization tool
 
-insert pic 1 here 
+<img width="632" alt="pic1" src="https://user-images.githubusercontent.com/95942698/196961645-01119854-3ea6-47f1-bae4-375fd035a381.png">
+
+ 
 
 
 # convert data to show closing prices for BTC 
 
-insert pic 2 here 
+ <img width="220" alt="pic2" src="https://user-images.githubusercontent.com/95942698/196961733-261f7529-8c68-4bff-bd54-a9f4ed813d8c.png">
+
 
 # info function to review datatypes of DF 
 
-insert pic 3 here 
+ <img width="577" alt="pic3" src="https://user-images.githubusercontent.com/95942698/196961771-4e2ac3cd-55e9-4a54-a8db-03664dd02604.png">
+
 
 # heatmap to visualize BTC data 
 
-insert pic 4 here 
+<img width="1264" alt="pic4" src="https://user-images.githubusercontent.com/95942698/196961806-86209c9c-6a9d-45ff-86c8-570184a189a5.png">
+
 
 Findings: Bitcoin has been on a downward trend since its remarkable bull run which seems to have been whaning out now. I think that a bottom is near and from there we can possibly see a reversal.
 
 # Plot of BTC daily returns and volatility 
 
-insert pic 5 here 
+ <img width="808" alt="pic 5 " src="https://user-images.githubusercontent.com/95942698/196961882-aeebc42a-a474-448f-b19d-49b66231f285.png">
+
 
 
 ### Daniel Section Overview 
@@ -81,15 +87,19 @@ waiting on DB to give me clarification on his changes
 
 # Specify which crypto we are predicting and set the currency to compare crypto to, specify timeframe for training data via dt.datetime, obtain data via DataReader, specify use of yahoo finance API. 
 
-insert pic 6 here 
+<img width="650" alt="pic6" src="https://user-images.githubusercontent.com/95942698/196961932-036b18c9-881e-46b7-8b94-169c9cf6ee93.png">
+
 
 # Prep Data and scale down data so neural network able to work better with data, new ML used was LSTM (long/short term memory) layers-recurrent layers to memorize important info to feed data back to neural network, then dropout layer to prevent overfitting followed by creating the neural network model. 
 
-insert pic 7 here 
+<img width="1041" alt="pic7" src="https://user-images.githubusercontent.com/95942698/196961974-860a88bd-b745-4565-a23e-e8cf53e730e0.png">
+
 
 # start testing the model, obtain prediction prices via .predict then inverse the prediction prices to obtain actual values, plot to show actual prices and predicted prices 
 
-insert pic 8 here 
+
+<img width="635" alt="pic8" src="https://user-images.githubusercontent.com/95942698/196962025-42239215-fb82-4c05-9068-7078938a469d.png">
+
 
 
 
