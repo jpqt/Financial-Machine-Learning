@@ -29,7 +29,7 @@
 ### Files Navigation
 * `jpqt.ipynb` 
 * `crypto_prediction_ML.ipynb`
-* `btcSVAmodel.ipynb`
+* `LinearRegressionbtc.ipynb`
 * `history-btc.csv` 
 
 ### Data Prep
