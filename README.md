@@ -15,6 +15,8 @@
 * from sklearn.preprocessing import MinMaxScaler
 * from tensorflow.keras.layers import Dense, Dropout, LSTM
 * from tensorflow.keras.models import Sequential
+* from sklearn.model_selection import train_test_split
+* from sklearn.linear_model import  LinearRegression 
 
 
 ### Purpose of Use
@@ -58,7 +60,7 @@
 
 # heatmap to visualize BTC data 
 
-<img width="1264" alt="pic4" src="https://user-images.githubusercontent.com/95942698/196961806-86209c9c-6a9d-45ff-86c8-570184a189a5.png">
+<img width="662" alt="updatedphoto" src="https://user-images.githubusercontent.com/95942698/197052664-14037ab9-4594-4a15-840f-d67f2e7398c4.png">
 
 
 Findings: Bitcoin has been on a downward trend since its remarkable bull run which seems to have been whaning out now. I think that a bottom is near and from there we can possibly see a reversal.
